@@ -1,6 +1,6 @@
 <template>
     <header id="cabecera">
-        <img alt="Logotipo de biciSHOP" src="../assets/bicishop-logo.png">
+        <img alt="Logotipo de biciSHOP" src="../assets/bicishop-logo.png" copyright="cc-by biciShop">
         <nav id="menu-principal">
             <a href="#">Inicio</a>
             <a href="#">Tienda</a>
